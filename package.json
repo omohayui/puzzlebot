@@ -5,6 +5,8 @@
   "author": "omohayui <omohayui@gmail.com>",
   "description": "A robot that will let the puzzle",
   "dependencies": {
+    "async": "^0.9.0",
+    "config": "^1.12.0",
     "hubot": "^2.12.0-beta",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
@@ -18,7 +20,9 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.2",
     "hubot-slack": "^3.3.0",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "js-yaml": "^3.2.7",
+    "lodash": "^3.5.0"
   },
   "engines": {
     "node": "0.10.x"

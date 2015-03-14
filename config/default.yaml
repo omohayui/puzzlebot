@@ -1,0 +1,14 @@
+gorilla:
+  width: 3
+  height: 3
+  images:
+    - ':mu:'
+    - ':gori_1:'
+    - ':gori_2:'
+    - ':gori_3:'
+    - ':gori_4:'
+    - ':gori_5:'
+    - ':gori_6:'
+    - ':gori_7:'
+    - ':gori_8:'
+    - ':gori_9:'
